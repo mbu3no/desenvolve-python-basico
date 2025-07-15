@@ -1,1 +1,21 @@
+Solução Dissertativa - Truque da Tabuada do 9
+
+Objetivo:
+Calcular o resultado da multiplicação de 9 por um número inteiro entre 1 e 10, utilizando uma regra matemática simples que evita a multiplicação direta.
+
+Entrada:
+O usuário deve informar um número inteiro n, entre 1 e 10.
+
+Processamento:
+1. Subtrai-se 1 do número informado, obtendo a dezena: dezena = n - 1.
+2. Subtrai-se o número informado de 10, obtendo a unidade: unidade = 10 - n.
+3. Multiplica-se a dezena por 10 e soma-se a unidade: resultado = dezena * 10 + unidade.
+
+Saída:
+O valor da multiplicação de 9 por n, calculado de forma alternativa.
+Exemplo: Se n = 4, então:
+- dezena = 3
+- unidade = 6
+- resultado = 3 * 10 + 6 = 36
+Portanto, 9 × 4 = 36.
 
