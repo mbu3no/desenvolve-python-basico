@@ -1,1 +1,15 @@
+Início
+    Escreva "Digite um número entre 1 e 10:"
+    Leia n
+
+    Se n >= 1 e n <= 10 então
+        dezena ← n - 1
+        unidade ← 10 - n
+        resultado ← dezena * 10 + unidade
+
+        Escreva "9 x", n, "=", resultado
+    Senão
+        Escreva "Número inválido. Digite um número entre 1 e 10."
+    FimSe
+Fim
 
