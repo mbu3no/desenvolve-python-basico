@@ -1,0 +1,4 @@
+id,nome,usuario,senha,tipo
+1,Administrador,admin,admin123,admin
+2,Funcionario,Fernanda,func123,funcionario
+3,Cliente,Carlos,cli123,cliente
